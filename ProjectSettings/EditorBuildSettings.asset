@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/!Test-Task/TestTask.unity
+    guid: 9f6497331f4f9c042927ea6c7a7496a8
+  m_configObjects: {}
